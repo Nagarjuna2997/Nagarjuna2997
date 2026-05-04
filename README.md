@@ -130,21 +130,27 @@ React, TypeScript, Python, APIs, AWS, automation, product building.
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" align="center">
+
+<img src="https://skillicons.dev/icons?i=swift" width="55" />
 
 ### iOS Agent Skill
 
 A structured skill pack for AI coding tools to build better iOS and Swift apps with architecture, Apple framework guidance, reusable patterns, and production checklists.
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
+
+<img src="https://skillicons.dev/icons?i=apple" width="55" />
 
 ### Slate Notes Canvas
 
 A privacy-first notes and canvas app idea focused on local storage, clean writing, notebooks, canvases, and personal productivity.
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
+
+<img src="https://skillicons.dev/icons?i=python" width="55" />
 
 ### Neuron Local LLM
 
@@ -154,25 +160,135 @@ An offline AI chatbot concept where models run on-device with no accounts, no cl
 </tr>
 
 <tr>
-<td width="33%">
+<td width="33%" align="center">
+
+<img src="https://skillicons.dev/icons?i=swift" width="55" />
 
 ### Task Manager for iOS
 
 An iPhone system-monitor style app inspired by Windows Task Manager, focused on useful device insights and strong mobile UI.
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
+
+<img src="https://skillicons.dev/icons?i=python" width="55" />
 
 ### OnDemand Tutor Q&A Agent
 
 A RAG-powered educational assistant designed for question answering, retrieval, and student-friendly explanations.
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
+
+<img src="https://skillicons.dev/icons?i=python" width="55" />
 
 ### ZipDeals
 
 A Python-based deal discovery experiment focused on finding useful products, offers, and practical savings workflows.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Future Repositories I Am Building
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=900&center=true&vCenter=true&width=850&lines=Next+wave+of+projects+I+want+to+ship.;AI+apps.+iOS+apps.+Local-first+tools.;Beautiful+interfaces+with+real+engineering+inside." />
+</p>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+<img src="https://skillicons.dev/icons?i=swift" width="60" />
+
+### Offline AI Notes
+
+A local-first iOS notes app with writing, canvas thinking, smart organization, and private AI assistance.
+
+**Stack:** SwiftUI, SwiftData, Local AI
+
+</td>
+<td width="25%" align="center">
+
+<img src="https://skillicons.dev/icons?i=python" width="60" />
+
+### RAG Research Agent
+
+An AI research assistant that reads documents, searches sources, summarizes findings, and creates grounded answers.
+
+**Stack:** Python, RAG, Vector DB
+
+</td>
+<td width="25%" align="center">
+
+<img src="https://skillicons.dev/icons?i=react" width="60" />
+
+### Job Application Agent
+
+A full-stack job search assistant that tracks jobs, improves resumes, writes cover letters, and organizes applications.
+
+**Stack:** React, Node.js, AI
+
+</td>
+<td width="25%" align="center">
+
+<img src="https://skillicons.dev/icons?i=apple" width="60" />
+
+### iOS Design Lab
+
+A collection of SwiftUI animations, liquid glass UI experiments, onboarding screens, and production-ready mobile patterns.
+
+**Stack:** SwiftUI, Motion, UX
+
+</td>
+</tr>
+
+<tr>
+<td width="25%" align="center">
+
+<img src="https://skillicons.dev/icons?i=aws" width="60" />
+
+### CloudVault
+
+A smart storage experiment focused on private file organization, fast upload flows, and clean mobile-first storage UX.
+
+**Stack:** iOS, Cloud, Storage
+
+</td>
+<td width="25%" align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter" width="60" />
+
+### Daily Decision App
+
+A simple app that helps users decide what to eat, what to do, and how to plan their day based on personal constraints.
+
+**Stack:** Mobile, Rules Engine, UX
+
+</td>
+<td width="25%" align="center">
+
+<img src="https://skillicons.dev/icons?i=docker" width="60" />
+
+### Local LLM Server
+
+A developer tool for running local models, testing prompts, comparing responses, and connecting apps to local inference.
+
+**Stack:** Docker, Python, LLMs
+
+</td>
+<td width="25%" align="center">
+
+<img src="https://skillicons.dev/icons?i=github" width="60" />
+
+### AI Skill Library
+
+A growing collection of reusable AI coding skills for frontend, backend, iOS, RAG, SaaS, automation, and product building.
+
+**Stack:** GitHub, AI Agents, Docs
 
 </td>
 </tr>
@@ -227,7 +343,7 @@ Cloud and DevOps         ███████████████░░░�
 <tr>
 <td width="25%" align="center">
 
-### Product First
+<img src="https://img.shields.io/badge/Product-First-2563EB?style=for-the-badge" />
 
 I do not just build code.  
 I think about users, design, workflow, and real-world usefulness.
@@ -235,21 +351,21 @@ I think about users, design, workflow, and real-world usefulness.
 </td>
 <td width="25%" align="center">
 
-### AI Native
+<img src="https://img.shields.io/badge/AI-Native-7C3AED?style=for-the-badge" />
 
 I use AI tools deeply for research, coding, architecture, automation, and product iteration.
 
 </td>
 <td width="25%" align="center">
 
-### Privacy Focused
+<img src="https://img.shields.io/badge/Privacy-Focused-0EA5E9?style=for-the-badge" />
 
 Many of my ideas focus on local-first storage, offline AI, and user-controlled data.
 
 </td>
 <td width="25%" align="center">
 
-### Ship Mindset
+<img src="https://img.shields.io/badge/Ship-Mindset-22C55E?style=for-the-badge" />
 
 I care about building projects publicly, improving fast, and turning ideas into usable products.
 
@@ -307,9 +423,6 @@ It is about solving a real problem, making the interface feel natural, and build
   </a>
   <a href="https://futurepulseai.blog">
     <img src="https://img.shields.io/badge/Blog-FuturePulseAI-111827?style=for-the-badge&logo=wordpress&logoColor=white" />
-  </a>
-  <a href="https://68aab83b638784335fcb722c--nagarjunaportfolio9.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
   <a href="https://github.com/Nagarjuna2997">
     <img src="https://img.shields.io/badge/GitHub-Nagarjuna2997-181717?style=for-the-badge&logo=github&logoColor=white" />
